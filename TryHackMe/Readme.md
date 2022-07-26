@@ -86,3 +86,7 @@ I'm doing this on Kali Linux with virtualBox and OpenVPN
 - [ ] Blue Print https://tryhackme.com/room/blueprint 
 - [ ] Anthem https://tryhackme.com/room/anthem 
 - [ ] Relevant https://tryhackme.com/room/relevant
+# Bonus
+- [ ] Advent of Cyber Year 1 (2019) https://tryhackme.com/room/25daysofchristmas
+- [ ] Advent of Cyber Year 2 (2020) https://tryhackme.com/room/adventofcyber2
+- [ ] Owasp Top 10 https://tryhackme.com/room/owasptop10
