@@ -1,5 +1,6 @@
-# Folder where all notes related to TryHackMe will be put in the future.
-# Here id a todo list :
+# Folder where all notes related to TryHackMe will be put in the future. <br> Here id a todo list :
+
+I'm doing this on Kali Linux with virtualBox and OpenVPN
 
 # Level 1 - Intro 
 - [x] OpenVPN https://tryhackme.com/room/openvpn 
